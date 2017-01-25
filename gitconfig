@@ -1,0 +1,47 @@
+[color]
+  ui = true
+
+[color "branch"]
+  current = yellow reverse
+  local = yellow
+  remote = green
+
+[color "diff"]
+  meta = yellow bold
+  frag = magenta bold
+  old = red bold
+  new = green bold
+
+[apply]
+  whitespace = nowarn
+
+[branch]
+  autosetuprebase = always
+
+[core]
+  autocrlf = false
+  quotepath = false
+  pager = diff-highlight | diff-so-fancy | less -r
+
+[github]
+  user = sthulb
+
+[user]
+  name = Simon Thulbourn
+  email = simon+github@thulbourn.com
+	signingkey = 66A7977C04DD307E
+
+[alias]
+  st = status -sb
+  conflicts = "!git status --short | grep \"^UU\""
+  orphan = checkout --orphan
+  diff = diff --word-diff
+  log = log --decorate
+  which-release = name-rev --name-only
+  in-branch = branch --contains
+  in-upstream = cherry -v master
+
+[url "git@github.com:hailocab/"]
+    insteadOf = https://github.com/hailocab/
+[http]
+	cookiefile = /Users/sthulb/.gitcookies
