@@ -1,9 +1,13 @@
 # go
 export GOPATH="$HOME/Developer/go"
-export PATH=$HOME/Developer/go:$PATH
+
+[[ -d $HOME/Developer/go/bin ]] && export PATH=$HOME/Developer/go/bin:$PATH
 
 # add local bin to path
-[[ -d $HOME/.bin  ]] && PATH=$HOME/.bin:$PATH
+[[ -d $HOME/.bin  ]] && export PATH=$HOME/.bin:$PATH
+
+# add homebrew to path
+[[ -d $HOME/.homebrew/bin ]] && export PATH=$HOME/.homebrew/bin:$PATH
 
 # ignore common commands in history
 export HISTIGNORE="&:ls:[bf]g:exit:reset:clear:cd*";
