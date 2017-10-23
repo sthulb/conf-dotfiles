@@ -9,6 +9,9 @@ export GOPATH="$HOME/Developer/go"
 # add homebrew to path
 [[ -d $HOME/.homebrew/bin ]] && export PATH=$HOME/.homebrew/bin:$PATH
 
+export PATH=$(pyenv root)/shims:$PATH
+export PYENV_ROOT="$HOME/.pyenv"
+
 # ignore common commands in history
 export HISTIGNORE="&:ls:[bf]g:exit:reset:clear:cd*";
 
@@ -64,3 +67,5 @@ export HOMEBREW_NO_ANALYTICS=1
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
   source $(brew --prefix)/etc/bash_completion
 fi
+
+source $(brew --prefix)/bin/assume-role
