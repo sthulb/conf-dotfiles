@@ -1,16 +1,13 @@
 # go
-export GOPATH="$HOME/Developer/go"
+export GOPATH="$HOME/Developer"
 
-[[ -d $HOME/Developer/go/bin ]] && export PATH=$HOME/Developer/go/bin:$PATH
+[[ -d $HOME/Developer/bin ]] && export PATH=$HOME/Developer/bin:$PATH
 
 # add local bin to path
 [[ -d $HOME/.bin  ]] && export PATH=$HOME/.bin:$PATH
 
 # add homebrew to path
 [[ -d $HOME/.homebrew/bin ]] && export PATH=$HOME/.homebrew/bin:$PATH
-
-export PATH=$(pyenv root)/shims:$PATH
-export PYENV_ROOT="$HOME/.pyenv"
 
 # ignore common commands in history
 export HISTIGNORE="&:ls:[bf]g:exit:reset:clear:cd*";
@@ -62,6 +59,7 @@ export MANPAGER="less -X"
 
 # homebrew
 export HOMEBREW_NO_ANALYTICS=1
+export HOMEBREW_CASK_OPTS="--appdir=$HOME/Applications"
 
 # bash completion
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
