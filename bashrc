@@ -59,6 +59,7 @@ export MANPAGER="less -X"
 
 # homebrew
 export HOMEBREW_NO_ANALYTICS=1
+export HOMEBREW_AUTO_UPDATE_SECS=3600
 export HOMEBREW_CASK_OPTS="--appdir=$HOME/Applications"
 
 # bash completion
