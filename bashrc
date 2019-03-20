@@ -1,16 +1,8 @@
-# go
-export GOPATH="$HOME/Developer"
-
-[[ -d $HOME/Developer/bin ]] && export PATH=$HOME/Developer/bin:$PATH
-
-# add local bin to path
-[[ -d $HOME/.bin  ]] && export PATH=$HOME/.bin:$PATH
-
 # add homebrew to path
 [[ -d $HOME/.homebrew/bin ]] && export PATH=$HOME/.homebrew/bin:$PATH
 
 # ignore common commands in history
-export HISTIGNORE="&:ls:[bf]g:exit:reset:clear:cd*";
+export HISTIGNORE="&:ls:[bf]g:exit:reset:clear:cd *";
 
 # history max size
 export HISTSIZE=4096;
@@ -43,9 +35,6 @@ shopt -s dotglob 2>/dev/null
 export LC_ALL="en_GB.UTF-8"
 export LANG="en_GB.UTF-8"
 
-# editor
-export EDITOR='vim'
-
 # completion
 bind "set completion-ignore-case on"
 bind "set completion-map-case on"
@@ -66,5 +55,3 @@ export HOMEBREW_CASK_OPTS="--appdir=$HOME/Applications"
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
   source $(brew --prefix)/etc/bash_completion
 fi
-
-source $(brew --prefix)/bin/assume-role
