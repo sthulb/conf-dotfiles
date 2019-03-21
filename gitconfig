@@ -29,8 +29,7 @@
 
 [user]
   name = Simon Thulbourn
-  email = simon+github@thulbourn.com
-	signingkey = 66A7977C04DD307E
+  email = sthulb@users.noreply.github.com
 
 [alias]
   st = status -sb
