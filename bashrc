@@ -55,3 +55,8 @@ export HOMEBREW_CASK_OPTS="--appdir=$HOME/Applications"
 if [ -f $(brew --prefix)/etc/bash_completion ]; then
   source $(brew --prefix)/etc/bash_completion
 fi
+
+if [ -f $(brew --prefix)/bin/go ]; then
+  export GOPATH=$HOME/Developer
+  export PATH="$PATH:$GOPATH/bin"
+fi

@@ -45,3 +45,5 @@
     insteadOf = https://github.com/hailocab/
 [http]
 	cookiefile = /Users/sthulb/.gitcookies
+[push]
+	default = simple
