@@ -1,0 +1,20 @@
+{
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Fira Code",
+    "editor.renderWhitespace": "all",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Default Light+",
+    "workbench.fontAliasing": "antialiased",
+    "workbench.tips.enabled": false,
+    "breadcrumbs.enabled": true,
+    "window.restoreFullscreen": true,
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.shell.osx": "/Users/thulsimo/.homebrew/bin/bash",
+    "keyboard.touchbar.enabled": false,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "gitlens.codeLens.enabled": false,
+    "aws.telemetry": false,
+    "go.toolsGopath": "/Users/thulsimo/.vscode/go_tools/",
+    "go.useLanguageServer": true
+}
