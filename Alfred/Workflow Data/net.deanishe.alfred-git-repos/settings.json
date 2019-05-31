@@ -1,0 +1,17 @@
+{
+  "__workflow_last_version": "3.0.1", 
+  "app_cmd": "Terminal", 
+  "app_default": "Visual Studio Code", 
+  "global_exclude_patterns": [], 
+  "search_dirs": [
+    {
+      "depth": 4, 
+      "excludes": [
+        "tmp", 
+        "bad/smell/*"
+      ], 
+      "name_for_parent": 1, 
+      "path": "~/Developer/src"
+    }
+  ]
+}

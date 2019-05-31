@@ -1,0 +1,169 @@
+﻿Alexa for Business,Alexa for Business,
+Amazon AWS,Amazon AWS,
+Amazon Web Services,Amazon Web Services (AWS),AWS
+API Gateway,Amazon API Gateway,API Gateway
+Application Auto Scaling,AWS Application Auto Scaling,Application Auto Scaling
+Application Discovery Service,AWS Application Discovery Service,Application Discovery Service
+AppStream,Amazon AppStream,
+AppStream 2.0,Amazon AppStream 2.0,AppStream 2.0
+AppSync,AWS AppSync,
+Artifact,AWS Artifact,
+Athena,Amazon Athena,Athena
+Auto Scaling,AWS Auto Scaling,
+EC2 Auto Scaling,Amazon EC2 Auto Scaling,
+Batch,AWS Batch,
+Billing and Cost Management,AWS Billing and Cost Management,Billing and Cost Management
+Blockchain Templates,AWS Blockchain Templates,
+Blox,Blox,
+Certificate Manager,AWS Certificate Manager (ACM),ACM
+Chalice,AWS Chalice,Chalice
+Chime ,Amazon Chime,Amazon Chime
+Cloud Directory,Amazon Cloud Directory,Cloud Directory
+Cloud9,AWS Cloud9,
+CloudFormation,AWS CloudFormation,
+CloudFront,Amazon CloudFront,CloudFront
+CloudHSM,AWS CloudHSM,CloudHSM
+CloudSearch,Amazon CloudSearch ,CloudSearch
+CloudTrail,AWS CloudTrail,CloudTrail
+CloudWatch ,Amazon CloudWatch,CloudWatch
+CloudWatch Events ,Amazon CloudWatch Events,CloudWatch Events
+CloudWatch Logs ,Amazon CloudWatch Logs,CloudWatch Logs
+CodeBuild,AWS CodeBuild,CodeBuild
+CodeCommit,AWS CodeCommit,CodeCommit
+CodeDeploy,AWS CodeDeploy,CodeDeploy
+CodePipeline,AWS CodePipeline,CodePipeline
+CodeStar,AWS CodeStar,
+Cognito,Amazon Cognito,
+Command Line Interface,AWS Command Line Interface (AWS CLI),AWS CLI
+Comprehend,Amazon Comprehend,
+Config,AWS Config,
+Connect,Amazon Connect,Amazon Connect
+Data Pipeline,AWS Data Pipeline,Data Pipeline
+Database Migration Service,AWS Database Migration Service (AWS DMS),AWS DMS
+DeepLens,AWS DeepLens,AWS DeepLens
+Device Farm,AWS Device Farm,Device Farm
+DevPay,Amazon DevPay,DevPay
+Direct Connect ,AWS Direct Connect,DX
+Directory Service,AWS Directory Service,Directory Service
+DynamoDB,Amazon DynamoDB,DynamoDB
+DynamoDB Streams,Amazon DynamoDB Streams,DynamoDB Streams
+EC2 Auto Scaling,Amazon EC2 Auto Scaling,
+Elastic Beanstalk,AWS Elastic Beanstalk,Elastic Beanstalk
+Elastic Block Store,Amazon Elastic Block Store (Amazon EBS),Amazon EBS
+Elastic Compute Cloud,Amazon Elastic Compute Cloud (Amazon EC2), Amazon EC2
+Elastic Container Registry,Amazon Elastic Container Registry (Amazon ECR),Amazon ECR
+Elastic Container Service,Amazon Elastic Container Service (Amazon ECS), Amazon ECS
+Elastic Container Service for Kubernetes,Amazon Elastic Container Service for Kubernetes (Amazon EKS), Amazon EKS
+Elastic File System,Amazon Elastic File System (Amazon EFS),Amazon EFS
+Elastic Load Balancing,Elastic Load Balancing,ELB
+Elastic Transcoder,Amazon Elastic Transcoder,Elastic Transcoder
+ElastiCache,Amazon ElastiCache, ElastiCache
+Elasticsearch Service,Amazon Elasticsearch Service, Amazon ES
+EMR,Amazon EMR,
+Firewall Manager,AWS Firewall Manager,
+FreeRTOS,Amazon FreeRTOS,
+GameLift,Amazon GameLift,
+Glacier,Amazon Glacier,
+Glue,AWS Glue,
+Greengrass,AWS Greengrass,
+GovCloud (US),AWS GovCloud (US),
+GuardDuty,Amazon GuardDuty,GuardDuty 
+Identity and Access Management,AWS Identity and Access Management (IAM),IAM
+Import/Export,AWS Import/Export,Import/Export 
+Inspector,Amazon Inspector,
+IoT,AWS IoT Core,
+IoT Analytics,AWS IoT Analytics,
+IoT Device Management,AWS IoT Device Management,
+IoT 1-Click,AWS IoT 1-Click,
+Key Management Service,AWS Key Management Service (AWS KMS),AWS KMS
+Kinesis,Amazon Kinesis,Kinesis
+Kinesis Data Analytics,Amazon Kinesis Data Analytics,Kinesis Data Analytics
+Kinesis Data Firehose,Amazon Kinesis Data Firehose,Kinesis Data Firehose
+Kinesis Data Streams,Amazon Kinesis Data Streams, Kinesis Data Streams
+Kinesis Video Streams,Amazon Kinesis Video Streams,Kinesis Video Streams
+Lambda,AWS Lambda,Lambda
+Lex,Amazon Lex,
+Lightsail,Amazon Lightsail,Lightsail
+Lumberyard,Amazon Lumberyard,Lumberyard
+Machine Learning ,Amazon Machine Learning (Amazon ML),Amazon ML
+Macie ,Amazon Macie ,Macie
+Management Console ,AWS Management Console,the console
+Management Portal for vCenter,AWS Management Portal for vCenter,management portal
+Marketplace ,AWS Marketplace,AWS Marketplace
+Mechanical Turk ,Amazon Mechanical Turk, Mechanical Turk
+MediaConvert,AWS Elemental MediaConvert,MediaConvert
+MediaLive,AWS Elemental MediaLive,MediaLive
+MediaPackage,AWS Elemental MediaPackage,MediaPackage
+MediaStore,AWS Elemental MediaStore,MediaStore
+MediaTailor,AWS Elemental MediaTailor,MediaTailor
+Migration Hub,AWS Migration Hub, Migration Hub
+Mobile Analytics,Amazon Mobile Analytics, Mobile Analytics
+Mobile Hub,AWS Mobile Hub, Mobile Hub
+MQ,Amazon MQ,
+MXNet,Apache MXNet on AWS,MXNet 
+Neptune,Amazon Neptune,Neptune
+OpsWorks ,AWS OpsWorks,OpsWorks
+OpsWorks Stacks ,AWS OpsWorks Stacks,OpsWorks Stacks
+OpsWorks for Chef Automate ,AWS OpsWorks for Chef Automate,OpsWorks for Chef Automate
+Organizations,AWS Organizations,Organizations
+Personal Health Dashboard,AWS Personal Health Dashboard,Personal Health Dashboard
+Pinpoint,Amazon Pinpoint,
+Polly ,Amazon Polly,
+Private Certificate Authority ,AWS Certificate Manager Private Certificate Authority,"ACM Private CA,"
+QuickSight,Amazon QuickSight,
+Redshift,Amazon Redshift,
+Rekognition,Amazon Rekognition,
+Relational Database Service,Amazon Relational Database Service (Amazon RDS), Amazon RDS
+Remote Configuration,Amazon Remote Configuration,Remote Configuration
+Route 53,Amazon Route 53,Route 53
+SageMaker,Amazon SageMaker,
+Schema Conversion Tool,AWS Schema Conversion Tool, AWS SCT
+Secrets Manager,AWS Secrets Manager, Secrets Manager
+Security Token Service,AWS Security Token Service (AWS STS),AWS STS
+Server Migration Service,AWS Server Migration Service (AWS SMS) ,AWS SMS 
+Serverless Application Repository,AWS Serverless Application Repository ,
+Service Catalog,AWS Service Catalog,
+Service Health Dashboard,AWS Service Health Dashboard,Service Health Dashboard
+Shield,AWS Shield,
+Silk,Amazon Silk,Silk
+Simple Email Service,Amazon Simple Email Service (Amazon SES), Amazon SES
+Simple Notification Service,Amazon Simple Notification Service (Amazon SNS), Amazon SNS
+Simple Queue Service,Amazon Simple Queue Service (Amazon SQS), Amazon SQS
+Simple Storage Service,Amazon Simple Storage Service (Amazon S3), Amazon S3
+Simple Workflow Service,Amazon Simple Workflow Service (Amazon SWF), Amazon SWF
+SimpleDB,Amazon SimpleDB, SimpleDB
+Single Sign-On,AWS Single Sign-On, AWS SSO
+Snowball,AWS Snowball, Snowball
+Snowmobile,AWS Snowmobile,Snowmobile
+Step Functions,AWS Step Functions,Step Functions
+Storage Gateway,AWS Storage Gateway,Storage Gateway
+Sumerian,Amazon Sumerian,Sumerian
+Support,AWS Support,Support
+Systems Manager,AWS Systems Manager, Systems Manager
+SDK for Android,AWS Mobile SDK for Android,Mobile SDK for Android
+SDK for C++,AWS SDK for C++,SDK for C++
+SDK for Go,AWS SDK for Go,SDK for Go
+SDK for iOS,AWS Mobile SDK for iOS,Mobile SDK for iOS
+SDK for Java,AWS SDK for Java,SDK for Java
+SDK for JavaScript in the Browser,AWS SDK for JavaScript in the Browser,SDK for JavaScript in the Browser 
+SDK for JavaScript in Node.js,AWS SDK for JavaScript in Node.js,SDK for JavaScript in Node.js 
+SDK for .NET,AWS SDK for .NET,SDK for .NET
+SDK for .NET and Xamarin,AWS SDK for .NET and Xamarin,SDK for .NET and Xamarin
+SDK for PHP,AWS SDK for PHP,SDK for PHP
+SDK for Python (boto),AWS SDK for Python (boto),SDK for Python
+SDK for Ruby,AWS SDK for Ruby,SDK for Ruby
+SDK for Unity,AWS Mobile SDK for Unity,Mobile SDK for Unity
+Toolkit for Eclipse,AWS Toolkit for Eclipse,Toolkit for Eclipse
+Toolkit for Visual Studio,AWS Toolkit for Visual Studio,Toolkit for Visual Studio
+Tools for VSTS,AWS Tools for Microsoft Visual Studio Team Services,AWS Tools for VSTS
+Tools for PowerShell,AWS Tools for PowerShell,Tools for PowerShell 
+Translate,Amazon Translate,
+Transcribe,Amazon Transcribe,
+Trusted Advisor,AWS Trusted Advisor,Trusted Advisor
+VPC,Amazon Virtual Private Cloud (Amazon VPC),Amazon VPC
+WAF,AWS WAF,
+WorkDocs,Amazon WorkDocs,WorkDocs
+WorkMail,Amazon WorkMail,WorkMail
+WorkSpaces,Amazon WorkSpaces,
+WAM,Amazon WorkSpaces Application Manager (Amazon WAM),Amazon WAM
+X-Ray,AWS X-Ray,X-Ray

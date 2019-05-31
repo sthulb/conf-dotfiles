@@ -1,0 +1,189 @@
+AWS Cost Explorer Service
+Amazon DynamoDB Streams
+Amazon GuardDuty
+Amazon Machine Learning
+AWS Elemental MediaConvert
+AWS Elemental MediaPackage VOD
+Amazon QuickSight
+Amazon Relational Database Service
+AWS Secrets Manager
+Amazon WorkDocs
+AWS Backup
+AWS CloudHSM V2
+AWS Data Pipeline
+Amazon Forecast Service
+Amazon Glacier
+EC2 Image Builder
+AWS Elemental MediaPackage
+Amazon Neptune
+Amazon Simple Storage Service
+AWS Transfer for SFTP
+AWS CodeCommit
+Amazon Connect Service
+AWS Data Exchange
+AWS Lake Formation
+AWS Elemental MediaStore
+AWS Organizations
+AWS Resource Groups Tagging API
+AWS Signer
+AWS SSO OIDC
+Amazon WorkSpaces
+Access Analyzer
+Auto Scaling
+Amazon Elastic Kubernetes Service
+Amazon Kinesis Analytics
+AWS Marketplace Entitlement Service
+Amazon Pinpoint Email Service
+AWS RDS DataService
+Amazon Rekognition
+Schemas
+Amazon Import/Export Snowball
+AWS App Mesh
+Amazon CodeGuru Reviewer
+Amazon Comprehend
+AWS Cost and Usage Report Service
+Amazon EC2 Container Registry
+AWS IoT Things Graph
+Managed Streaming for Kafka
+AWS Price List Service
+Amazon Pinpoint SMS and Voice Service
+AWS WAF Regional
+AWS Certificate Manager
+Amazon API Gateway
+Amazon CloudFront
+Amazon Elastic Compute Cloud
+AWS IoT Data Plane
+AWS IoT Events Data
+AWS Elemental MediaStore Data Plane
+Amazon Route 53 Domains
+Amazon SageMaker Service
+AWS Cloud Map
+Application Auto Scaling
+AWS Compute Optimizer
+Amazon Inspector
+Amazon Kinesis Video Streams
+AWS License Manager
+Amazon Macie
+AmazonMQ
+Amazon Polly
+AWS Step Functions
+AWS WAF
+AWS CodeBuild
+Amazon Cognito Identity
+Amazon Data Lifecycle Manager
+Amazon Elastic Block Store
+AWS Identity and Access Management
+AWS Lambda
+Amazon Route 53 Resolver
+Service Quotas
+AWS Service Catalog
+AWS Shield
+AWS Amplify
+AWS Auto Scaling Plans
+Amazon CloudHSM
+AWS CodeStar
+Amazon Forecast Query Service
+Amazon Managed Blockchain
+AWS Elemental MediaLive
+Amazon Pinpoint SMS and Voice Service
+AWS Server Migration Service
+AWS X-Ray
+AWS Batch
+AWS CloudFormation
+Amazon Cognito Sync
+Amazon ElastiCache
+AWS Greengrass
+AWS Key Management Service
+Amazon Personalize Events
+Amazon Redshift
+AWS Single Sign-On
+Amazon Translate
+AmazonApiGatewayManagementApi
+AWS CodeDeploy
+AWS Config
+Amazon DynamoDB Accelerator (DAX)
+Amazon DocumentDB with MongoDB compatibility
+Amazon GameLift
+AWS IoT
+AWS IoT Events
+Amazon SimpleDB
+AWS Storage Gateway
+AWS CloudTrail
+Amazon CloudWatch
+AWS CodePipeline
+Amazon Cognito Identity Provider
+AWS Database Migration Service
+Amazon EC2 Container Service
+AWS OpsWorks
+AWS Performance Insights
+AWS Resource Access Manager
+AWS S3 Control
+Amazon CodeGuru Profiler
+AWS CodeStar Notifications
+Amazon Kinesis Firehose
+Amazon Fraud Detector
+Amazon Lightsail
+Amazon SageMaker Runtime
+AWS Savings Plans
+AWS Support
+Amazon Textract
+Amazon WorkMail Message Flow
+Amazon CloudWatch Application Insights
+Amazon CloudSearch
+AWS Directory Service
+Firewall Management Service
+Amazon FSx
+AWS Global Accelerator
+Amazon CloudWatch Logs
+Amazon Mechanical Turk
+Amazon Simple Email Service
+Amazon WorkMail
+Amazon Athena
+Amazon Chime
+AWS Comprehend Medical
+AWS Direct Connect
+Amazon Elastic MapReduce
+AWS Mobile
+Amazon Pinpoint
+AWS Resource Groups
+AWS SecurityHub
+Amazon Simple Systems Manager (SSM)
+AWS Certificate Manager Private Certificate Authority
+Alexa For Business
+AmazonApiGatewayV2
+Amazon EventBridge
+AWS Import/Export
+AWSMarketplace Metering
+Amazon QLDB
+Amazon Route 53
+AWS Serverless Application Repository
+Amazon WorkLink
+Amazon AppStream
+AWS AppSync
+Amazon DynamoDB
+AWS Elastic Beanstalk
+AWS Health APIs and Notifications
+AWS IoT 1-Click Projects Service
+AWS IoT Analytics
+Amazon QLDB Session
+AWS Security Token Service
+Amazon Transcribe Service
+AWS Budgets
+AWS DataSync
+Amazon Elastic File System
+Elastic Load Balancing
+Amazon Elasticsearch Service
+Amazon Kinesis
+AWS Marketplace Commerce Analytics
+AWS MediaTailor
+Amazon Simple Notification Service
+Amazon Simple Workflow Service
+AWS Cloud9
+Amazon Elastic Transcoder
+AWS Glue
+Amazon Lex Model Building Service
+Amazon Lex Runtime Service
+AWS MediaConnect
+AWS OpsWorks CM
+AWS RoboMaker
+Amazon Simple Queue Service

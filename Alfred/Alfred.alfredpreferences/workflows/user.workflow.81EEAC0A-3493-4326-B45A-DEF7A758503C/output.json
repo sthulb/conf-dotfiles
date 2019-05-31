@@ -1,0 +1,1516 @@
+{
+    "Parameters": [
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ce",
+            "Type": "String",
+            "Value": "ce",
+            "Version": 1,
+            "LastModifiedDate": 1554911549.13,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ce"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/dynamodbstreams",
+            "Type": "String",
+            "Value": "dynamodbstreams",
+            "Version": 1,
+            "LastModifiedDate": 1554911570.483,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/dynamodbstreams"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/guardduty",
+            "Type": "String",
+            "Value": "guardduty",
+            "Version": 1,
+            "LastModifiedDate": 1554911522.596,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/guardduty"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/machinelearning",
+            "Type": "String",
+            "Value": "machinelearning",
+            "Version": 1,
+            "LastModifiedDate": 1554911538.99,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/machinelearning"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mediaconvert",
+            "Type": "String",
+            "Value": "mediaconvert",
+            "Version": 1,
+            "LastModifiedDate": 1555521508.898,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mediaconvert"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mediapackage-vod",
+            "Type": "String",
+            "Value": "mediapackage-vod",
+            "Version": 1,
+            "LastModifiedDate": 1571926065.299,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mediapackage-vod"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/quicksight",
+            "Type": "String",
+            "Value": "quicksight",
+            "Version": 1,
+            "LastModifiedDate": 1558447106.64,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/quicksight"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/rds",
+            "Type": "String",
+            "Value": "rds",
+            "Version": 1,
+            "LastModifiedDate": 1554911486.259,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/rds"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/secretsmanager",
+            "Type": "String",
+            "Value": "secretsmanager",
+            "Version": 1,
+            "LastModifiedDate": 1554911497.374,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/secretsmanager"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/workdocs",
+            "Type": "String",
+            "Value": "workdocs",
+            "Version": 1,
+            "LastModifiedDate": 1554911645.146,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/workdocs"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/backup",
+            "Type": "String",
+            "Value": "backup",
+            "Version": 1,
+            "LastModifiedDate": 1554911547.702,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/backup"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloudhsmv2",
+            "Type": "String",
+            "Value": "cloudhsmv2",
+            "Version": 1,
+            "LastModifiedDate": 1554911556.351,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloudhsmv2"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/datapipeline",
+            "Type": "String",
+            "Value": "datapipeline",
+            "Version": 1,
+            "LastModifiedDate": 1554911563.999,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/datapipeline"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/forecast",
+            "Type": "String",
+            "Value": "forecast",
+            "Version": 1,
+            "LastModifiedDate": 1572285662.568,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/forecast"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/glacier",
+            "Type": "String",
+            "Value": "glacier",
+            "Version": 1,
+            "LastModifiedDate": 1554817138.515,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/glacier"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/imagebuilder",
+            "Type": "String",
+            "Value": "imagebuilder",
+            "Version": 1,
+            "LastModifiedDate": 1575883599.887,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/imagebuilder"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mediapackage",
+            "Type": "String",
+            "Value": "mediapackage",
+            "Version": 1,
+            "LastModifiedDate": 1555521510.442,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mediapackage"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/neptune",
+            "Type": "String",
+            "Value": "neptune",
+            "Version": 1,
+            "LastModifiedDate": 1555521512.341,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/neptune"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/s3",
+            "Type": "String",
+            "Value": "s3",
+            "Version": 1,
+            "LastModifiedDate": 1554816706.135,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/s3"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/transfer",
+            "Type": "String",
+            "Value": "transfer",
+            "Version": 1,
+            "LastModifiedDate": 1554817117.471,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/transfer"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codecommit",
+            "Type": "String",
+            "Value": "codecommit",
+            "Version": 1,
+            "LastModifiedDate": 1554817133.926,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codecommit"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/connect",
+            "Type": "String",
+            "Value": "connect",
+            "Version": 1,
+            "LastModifiedDate": 1555770748.307,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/connect"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/dataexchange",
+            "Type": "String",
+            "Value": "dataexchange",
+            "Version": 1,
+            "LastModifiedDate": 1574448305.732,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/dataexchange"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/lakeformation",
+            "Type": "String",
+            "Value": "lakeformation",
+            "Version": 1,
+            "LastModifiedDate": 1571926063.362,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/lakeformation"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mediastore",
+            "Type": "String",
+            "Value": "mediastore",
+            "Version": 1,
+            "LastModifiedDate": 1554911540.535,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mediastore"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/organizations",
+            "Type": "String",
+            "Value": "organizations",
+            "Version": 1,
+            "LastModifiedDate": 1554911484.801,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/organizations"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/resourcegroupstaggingapi",
+            "Type": "String",
+            "Value": "resourcegroupstaggingapi",
+            "Version": 1,
+            "LastModifiedDate": 1554911491.143,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/resourcegroupstaggingapi"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/signer",
+            "Type": "String",
+            "Value": "signer",
+            "Version": 1,
+            "LastModifiedDate": 1555521513.234,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/signer"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sso-oidc",
+            "Type": "String",
+            "Value": "sso-oidc",
+            "Version": 1,
+            "LastModifiedDate": 1574448309.506,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sso-oidc"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/workspaces",
+            "Type": "String",
+            "Value": "workspaces",
+            "Version": 1,
+            "LastModifiedDate": 1554911645.907,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/workspaces"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/accessanalyzer",
+            "Type": "String",
+            "Value": "accessanalyzer",
+            "Version": 1,
+            "LastModifiedDate": 1575883507.862,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/accessanalyzer"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/autoscaling",
+            "Type": "String",
+            "Value": "autoscaling",
+            "Version": 1,
+            "LastModifiedDate": 1554911543.965,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/autoscaling"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/eks",
+            "Type": "String",
+            "Value": "eks",
+            "Version": 1,
+            "LastModifiedDate": 1555770749.63,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/eks"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/kinesisanalytics",
+            "Type": "String",
+            "Value": "kinesisanalytics",
+            "Version": 1,
+            "LastModifiedDate": 1554911531.243,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/kinesisanalytics"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/marketplace-entitlement",
+            "Type": "String",
+            "Value": "marketplace-entitlement",
+            "Version": 1,
+            "LastModifiedDate": 1554911539.317,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/marketplace-entitlement"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/pinpoint-email",
+            "Type": "String",
+            "Value": "pinpoint-email",
+            "Version": 1,
+            "LastModifiedDate": 1555427759.71,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/pinpoint-email"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/rds-data",
+            "Type": "String",
+            "Value": "rds-data",
+            "Version": 1,
+            "LastModifiedDate": 1566223535.565,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/rds-data"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/rekognition",
+            "Type": "String",
+            "Value": "rekognition",
+            "Version": 1,
+            "LastModifiedDate": 1554911490.938,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/rekognition"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/schemas",
+            "Type": "String",
+            "Value": "schemas",
+            "Version": 1,
+            "LastModifiedDate": 1575883623.876,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/schemas"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/snowball",
+            "Type": "String",
+            "Value": "snowball",
+            "Version": 1,
+            "LastModifiedDate": 1554911502.844,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/snowball"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/appmesh",
+            "Type": "String",
+            "Value": "appmesh",
+            "Version": 1,
+            "LastModifiedDate": 1554817131.382,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/appmesh"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codeguru-reviewer",
+            "Type": "String",
+            "Value": "codeguru-reviewer",
+            "Version": 1,
+            "LastModifiedDate": 1575883513.343,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codeguru-reviewer"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/comprehend",
+            "Type": "String",
+            "Value": "comprehend",
+            "Version": 1,
+            "LastModifiedDate": 1554911563.128,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/comprehend"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cur",
+            "Type": "String",
+            "Value": "cur",
+            "Version": 1,
+            "LastModifiedDate": 1554911563.795,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cur"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ecr",
+            "Type": "String",
+            "Value": "ecr",
+            "Version": 1,
+            "LastModifiedDate": 1555770749.351,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ecr"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iotthingsgraph",
+            "Type": "String",
+            "Value": "iotthingsgraph",
+            "Version": 1,
+            "LastModifiedDate": 1560178235.023,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iotthingsgraph"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/kafka",
+            "Type": "String",
+            "Value": "kafka",
+            "Version": 1,
+            "LastModifiedDate": 1556659957.393,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/kafka"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/pricing",
+            "Type": "String",
+            "Value": "pricing",
+            "Version": 1,
+            "LastModifiedDate": 1554911486.062,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/pricing"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sms-voice",
+            "Type": "String",
+            "Value": "sms-voice",
+            "Version": 1,
+            "LastModifiedDate": 1559570272.218,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sms-voice"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/waf-regional",
+            "Type": "String",
+            "Value": "waf-regional",
+            "Version": 1,
+            "LastModifiedDate": 1554911641.908,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/waf-regional"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/acm",
+            "Type": "String",
+            "Value": "acm",
+            "Version": 1,
+            "LastModifiedDate": 1554866991.796,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/acm"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/apigateway",
+            "Type": "String",
+            "Value": "apigateway",
+            "Version": 1,
+            "LastModifiedDate": 1554867011.131,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/apigateway"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloudfront",
+            "Type": "String",
+            "Value": "cloudfront",
+            "Version": 1,
+            "LastModifiedDate": 1554911555.392,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloudfront"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ec2",
+            "Type": "String",
+            "Value": "ec2",
+            "Version": 1,
+            "LastModifiedDate": 1554911573.598,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ec2"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iot-data",
+            "Type": "String",
+            "Value": "iot-data",
+            "Version": 1,
+            "LastModifiedDate": 1554911524.949,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iot-data"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iotevents-data",
+            "Type": "String",
+            "Value": "iotevents-data",
+            "Version": 1,
+            "LastModifiedDate": 1560178231.185,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iotevents-data"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mediastore-data",
+            "Type": "String",
+            "Value": "mediastore-data",
+            "Version": 1,
+            "LastModifiedDate": 1557236879.689,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mediastore-data"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/route53domains",
+            "Type": "String",
+            "Value": "route53domains",
+            "Version": 1,
+            "LastModifiedDate": 1554911492.885,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/route53domains"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sagemaker",
+            "Type": "String",
+            "Value": "sagemaker",
+            "Version": 1,
+            "LastModifiedDate": 1554817115.12,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sagemaker"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/servicediscovery",
+            "Type": "String",
+            "Value": "servicediscovery",
+            "Version": 1,
+            "LastModifiedDate": 1555770753.022,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/servicediscovery"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/application-autoscaling",
+            "Type": "String",
+            "Value": "application-autoscaling",
+            "Version": 1,
+            "LastModifiedDate": 1554911408.357,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/application-autoscaling"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/compute-optimizer",
+            "Type": "String",
+            "Value": "compute-optimizer",
+            "Version": 1,
+            "LastModifiedDate": 1575883617.031,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/compute-optimizer"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/inspector",
+            "Type": "String",
+            "Value": "inspector",
+            "Version": 1,
+            "LastModifiedDate": 1554911524.206,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/inspector"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/kinesisvideo",
+            "Type": "String",
+            "Value": "kinesisvideo",
+            "Version": 1,
+            "LastModifiedDate": 1555521505.789,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/kinesisvideo"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/license-manager",
+            "Type": "String",
+            "Value": "license-manager",
+            "Version": 1,
+            "LastModifiedDate": 1555521506.765,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/license-manager"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/macie",
+            "Type": "String",
+            "Value": "macie",
+            "Version": 1,
+            "LastModifiedDate": 1555521506.919,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/macie"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mq",
+            "Type": "String",
+            "Value": "mq",
+            "Version": 1,
+            "LastModifiedDate": 1554911477.281,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mq"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/polly",
+            "Type": "String",
+            "Value": "polly",
+            "Version": 1,
+            "LastModifiedDate": 1554911485.409,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/polly"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/stepfunctions",
+            "Type": "String",
+            "Value": "stepfunctions",
+            "Version": 1,
+            "LastModifiedDate": 1554911503.828,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/stepfunctions"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/waf",
+            "Type": "String",
+            "Value": "waf",
+            "Version": 1,
+            "LastModifiedDate": 1554911641.828,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/waf"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codebuild",
+            "Type": "String",
+            "Value": "codebuild",
+            "Version": 1,
+            "LastModifiedDate": 1554817133.085,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codebuild"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cognito-identity",
+            "Type": "String",
+            "Value": "cognito-identity",
+            "Version": 1,
+            "LastModifiedDate": 1554911562.141,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cognito-identity"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/dlm",
+            "Type": "String",
+            "Value": "dlm",
+            "Version": 1,
+            "LastModifiedDate": 1555521567.284,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/dlm"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ebs",
+            "Type": "String",
+            "Value": "ebs",
+            "Version": 1,
+            "LastModifiedDate": 1575887674.534,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ebs"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iam",
+            "Type": "String",
+            "Value": "iam",
+            "Version": 1,
+            "LastModifiedDate": 1554911523.13,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iam"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/lambda",
+            "Type": "String",
+            "Value": "lambda",
+            "Version": 1,
+            "LastModifiedDate": 1554816665.296,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/lambda"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/route53resolver",
+            "Type": "String",
+            "Value": "route53resolver",
+            "Version": 1,
+            "LastModifiedDate": 1554911493.084,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/route53resolver"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/service-quotas",
+            "Type": "String",
+            "Value": "service-quotas",
+            "Version": 1,
+            "LastModifiedDate": 1562847446.559,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/service-quotas"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/servicecatalog",
+            "Type": "String",
+            "Value": "servicecatalog",
+            "Version": 1,
+            "LastModifiedDate": 1554911498.754,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/servicecatalog"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/shield",
+            "Type": "String",
+            "Value": "shield",
+            "Version": 1,
+            "LastModifiedDate": 1554911502.296,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/shield"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/amplify",
+            "Type": "String",
+            "Value": "amplify",
+            "Version": 1,
+            "LastModifiedDate": 1563546244.599,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/amplify"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/autoscaling-plans",
+            "Type": "String",
+            "Value": "autoscaling-plans",
+            "Version": 1,
+            "LastModifiedDate": 1554911544.034,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/autoscaling-plans"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloudhsm",
+            "Type": "String",
+            "Value": "cloudhsm",
+            "Version": 1,
+            "LastModifiedDate": 1554911556.104,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloudhsm"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codestar",
+            "Type": "String",
+            "Value": "codestar",
+            "Version": 1,
+            "LastModifiedDate": 1554911562.016,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codestar"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/forecastquery",
+            "Type": "String",
+            "Value": "forecastquery",
+            "Version": 1,
+            "LastModifiedDate": 1572285663.517,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/forecastquery"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/managedblockchain",
+            "Type": "String",
+            "Value": "managedblockchain",
+            "Version": 1,
+            "LastModifiedDate": 1558447106.368,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/managedblockchain"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/medialive",
+            "Type": "String",
+            "Value": "medialive",
+            "Version": 1,
+            "LastModifiedDate": 1555521509.194,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/medialive"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/pinpoint-sms-voice",
+            "Type": "String",
+            "Value": "pinpoint-sms-voice",
+            "Version": 1,
+            "LastModifiedDate": 1554911485.056,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/pinpoint-sms-voice"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sms",
+            "Type": "String",
+            "Value": "sms",
+            "Version": 1,
+            "LastModifiedDate": 1554911502.63,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sms"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/xray",
+            "Type": "String",
+            "Value": "xray",
+            "Version": 1,
+            "LastModifiedDate": 1554911646.103,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/xray"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/batch",
+            "Type": "String",
+            "Value": "batch",
+            "Version": 1,
+            "LastModifiedDate": 1554911548.788,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/batch"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloudformation",
+            "Type": "String",
+            "Value": "cloudformation",
+            "Version": 1,
+            "LastModifiedDate": 1554911555.145,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloudformation"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cognito-sync",
+            "Type": "String",
+            "Value": "cognito-sync",
+            "Version": 1,
+            "LastModifiedDate": 1554911562.395,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cognito-sync"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/elasticache",
+            "Type": "String",
+            "Value": "elasticache",
+            "Version": 1,
+            "LastModifiedDate": 1554911512.121,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/elasticache"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/greengrass",
+            "Type": "String",
+            "Value": "greengrass",
+            "Version": 1,
+            "LastModifiedDate": 1554817140.615,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/greengrass"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/kms",
+            "Type": "String",
+            "Value": "kms",
+            "Version": 1,
+            "LastModifiedDate": 1554911533.983,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/kms"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/personalize-events",
+            "Type": "String",
+            "Value": "personalize-events",
+            "Version": 1,
+            "LastModifiedDate": 1572285664.268,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/personalize-events"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/redshift",
+            "Type": "String",
+            "Value": "redshift",
+            "Version": 1,
+            "LastModifiedDate": 1554911488.273,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/redshift"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sso",
+            "Type": "String",
+            "Value": "sso",
+            "Version": 1,
+            "LastModifiedDate": 1574448309.439,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sso"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/translate",
+            "Type": "String",
+            "Value": "translate",
+            "Version": 1,
+            "LastModifiedDate": 1554911511.204,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/translate"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/apigatewaymanagementapi",
+            "Type": "String",
+            "Value": "apigatewaymanagementapi",
+            "Version": 1,
+            "LastModifiedDate": 1559570271.728,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/apigatewaymanagementapi"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codedeploy",
+            "Type": "String",
+            "Value": "codedeploy",
+            "Version": 1,
+            "LastModifiedDate": 1554911561.74,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codedeploy"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/config",
+            "Type": "String",
+            "Value": "config",
+            "Version": 1,
+            "LastModifiedDate": 1554911563.322,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/config"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/dax",
+            "Type": "String",
+            "Value": "dax",
+            "Version": 1,
+            "LastModifiedDate": 1554911564.547,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/dax"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/docdb",
+            "Type": "String",
+            "Value": "docdb",
+            "Version": 1,
+            "LastModifiedDate": 1554911569.172,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/docdb"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/gamelift",
+            "Type": "String",
+            "Value": "gamelift",
+            "Version": 1,
+            "LastModifiedDate": 1554911519.218,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/gamelift"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iot",
+            "Type": "String",
+            "Value": "iot",
+            "Version": 1,
+            "LastModifiedDate": 1554911524.76,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iot"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iotevents",
+            "Type": "String",
+            "Value": "iotevents",
+            "Version": 1,
+            "LastModifiedDate": 1560178231.11,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iotevents"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sdb",
+            "Type": "String",
+            "Value": "sdb",
+            "Version": 1,
+            "LastModifiedDate": 1554911497.175,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sdb"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/storagegateway",
+            "Type": "String",
+            "Value": "storagegateway",
+            "Version": 1,
+            "LastModifiedDate": 1554911504.034,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/storagegateway"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloudtrail",
+            "Type": "String",
+            "Value": "cloudtrail",
+            "Version": 1,
+            "LastModifiedDate": 1554911557.18,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloudtrail"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloudwatch",
+            "Type": "String",
+            "Value": "cloudwatch",
+            "Version": 1,
+            "LastModifiedDate": 1554911557.371,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloudwatch"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codepipeline",
+            "Type": "String",
+            "Value": "codepipeline",
+            "Version": 1,
+            "LastModifiedDate": 1554817134.952,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codepipeline"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cognito-idp",
+            "Type": "String",
+            "Value": "cognito-idp",
+            "Version": 1,
+            "LastModifiedDate": 1554817137.045,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cognito-idp"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/dms",
+            "Type": "String",
+            "Value": "dms",
+            "Version": 1,
+            "LastModifiedDate": 1554911568.92,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/dms"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ecs",
+            "Type": "String",
+            "Value": "ecs",
+            "Version": 1,
+            "LastModifiedDate": 1554911577.662,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ecs"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/opsworks",
+            "Type": "String",
+            "Value": "opsworks",
+            "Version": 1,
+            "LastModifiedDate": 1554911479.494,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/opsworks"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/pi",
+            "Type": "String",
+            "Value": "pi",
+            "Version": 1,
+            "LastModifiedDate": 1554817142.262,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/pi"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ram",
+            "Type": "String",
+            "Value": "ram",
+            "Version": 1,
+            "LastModifiedDate": 1554817143.339,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ram"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/s3control",
+            "Type": "String",
+            "Value": "s3control",
+            "Version": 1,
+            "LastModifiedDate": 1554816706.687,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/s3control"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codeguruprofiler",
+            "Type": "String",
+            "Value": "codeguruprofiler",
+            "Version": 1,
+            "LastModifiedDate": 1575883608.659,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codeguruprofiler"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/codestar-notifications",
+            "Type": "String",
+            "Value": "codestar-notifications",
+            "Version": 1,
+            "LastModifiedDate": 1574448302.844,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/codestar-notifications"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/firehose",
+            "Type": "String",
+            "Value": "firehose",
+            "Version": 1,
+            "LastModifiedDate": 1554911514.796,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/firehose"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/frauddetector",
+            "Type": "String",
+            "Value": "frauddetector",
+            "Version": 1,
+            "LastModifiedDate": 1575883662.147,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/frauddetector"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/lightsail",
+            "Type": "String",
+            "Value": "lightsail",
+            "Version": 1,
+            "LastModifiedDate": 1554911535.073,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/lightsail"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sagemaker-runtime",
+            "Type": "String",
+            "Value": "sagemaker-runtime",
+            "Version": 1,
+            "LastModifiedDate": 1555707353.683,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sagemaker-runtime"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/savingsplans",
+            "Type": "String",
+            "Value": "savingsplans",
+            "Version": 1,
+            "LastModifiedDate": 1574448305.943,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/savingsplans"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/support",
+            "Type": "String",
+            "Value": "support",
+            "Version": 1,
+            "LastModifiedDate": 1554911508.847,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/support"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/textract",
+            "Type": "String",
+            "Value": "textract",
+            "Version": 1,
+            "LastModifiedDate": 1554817115.495,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/textract"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/workmailmessageflow",
+            "Type": "String",
+            "Value": "workmailmessageflow",
+            "Version": 1,
+            "LastModifiedDate": 1574448310.382,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/workmailmessageflow"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/application-insights",
+            "Type": "String",
+            "Value": "application-insights",
+            "Version": 1,
+            "LastModifiedDate": 1562847445.815,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/application-insights"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloudsearch",
+            "Type": "String",
+            "Value": "cloudsearch",
+            "Version": 1,
+            "LastModifiedDate": 1554911556.619,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloudsearch"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ds",
+            "Type": "String",
+            "Value": "ds",
+            "Version": 1,
+            "LastModifiedDate": 1554911569.432,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ds"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/fms",
+            "Type": "String",
+            "Value": "fms",
+            "Version": 1,
+            "LastModifiedDate": 1554911515.017,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/fms"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/fsx",
+            "Type": "String",
+            "Value": "fsx",
+            "Version": 1,
+            "LastModifiedDate": 1554911518.962,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/fsx"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/globalaccelerator",
+            "Type": "String",
+            "Value": "globalaccelerator",
+            "Version": 1,
+            "LastModifiedDate": 1555521505.856,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/globalaccelerator"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/logs",
+            "Type": "String",
+            "Value": "logs",
+            "Version": 1,
+            "LastModifiedDate": 1554911538.798,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/logs"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mturk",
+            "Type": "String",
+            "Value": "mturk",
+            "Version": 1,
+            "LastModifiedDate": 1554911479.259,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mturk"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ses",
+            "Type": "String",
+            "Value": "ses",
+            "Version": 1,
+            "LastModifiedDate": 1554817115.249,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ses"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/workmail",
+            "Type": "String",
+            "Value": "workmail",
+            "Version": 1,
+            "LastModifiedDate": 1554911645.353,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/workmail"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/athena",
+            "Type": "String",
+            "Value": "athena",
+            "Version": 1,
+            "LastModifiedDate": 1554817132.319,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/athena"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/chime",
+            "Type": "String",
+            "Value": "chime",
+            "Version": 1,
+            "LastModifiedDate": 1555770747.596,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/chime"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/comprehendmedical",
+            "Type": "String",
+            "Value": "comprehendmedical",
+            "Version": 1,
+            "LastModifiedDate": 1555521565.713,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/comprehendmedical"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/directconnect",
+            "Type": "String",
+            "Value": "directconnect",
+            "Version": 1,
+            "LastModifiedDate": 1554911565.283,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/directconnect"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/emr",
+            "Type": "String",
+            "Value": "emr",
+            "Version": 1,
+            "LastModifiedDate": 1554911513.696,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/emr"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mobile",
+            "Type": "String",
+            "Value": "mobile",
+            "Version": 1,
+            "LastModifiedDate": 1554911476.794,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mobile"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/pinpoint",
+            "Type": "String",
+            "Value": "pinpoint",
+            "Version": 1,
+            "LastModifiedDate": 1554911484.988,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/pinpoint"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/resource-groups",
+            "Type": "String",
+            "Value": "resource-groups",
+            "Version": 1,
+            "LastModifiedDate": 1554817144.253,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/resource-groups"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/securityhub",
+            "Type": "String",
+            "Value": "securityhub",
+            "Version": 1,
+            "LastModifiedDate": 1554911497.996,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/securityhub"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/ssm",
+            "Type": "String",
+            "Value": "ssm",
+            "Version": 1,
+            "LastModifiedDate": 1554911503.621,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/ssm"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/acm-pca",
+            "Type": "String",
+            "Value": "acm-pca",
+            "Version": 1,
+            "LastModifiedDate": 1554866991.883,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/acm-pca"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/alexaforbusiness",
+            "Type": "String",
+            "Value": "alexaforbusiness",
+            "Version": 1,
+            "LastModifiedDate": 1554817130.237,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/alexaforbusiness"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/apigatewayv2",
+            "Type": "String",
+            "Value": "apigatewayv2",
+            "Version": 1,
+            "LastModifiedDate": 1559570271.999,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/apigatewayv2"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/events",
+            "Type": "String",
+            "Value": "events",
+            "Version": 1,
+            "LastModifiedDate": 1554911514.578,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/events"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/importexport",
+            "Type": "String",
+            "Value": "importexport",
+            "Version": 1,
+            "LastModifiedDate": 1554911523.552,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/importexport"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/meteringmarketplace",
+            "Type": "String",
+            "Value": "meteringmarketplace",
+            "Version": 1,
+            "LastModifiedDate": 1554911543.304,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/meteringmarketplace"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/qldb",
+            "Type": "String",
+            "Value": "qldb",
+            "Version": 1,
+            "LastModifiedDate": 1571926065.827,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/qldb"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/route53",
+            "Type": "String",
+            "Value": "route53",
+            "Version": 1,
+            "LastModifiedDate": 1554911492.576,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/route53"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/serverlessrepo",
+            "Type": "String",
+            "Value": "serverlessrepo",
+            "Version": 1,
+            "LastModifiedDate": 1554817114.989,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/serverlessrepo"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/worklink",
+            "Type": "String",
+            "Value": "worklink",
+            "Version": 1,
+            "LastModifiedDate": 1555521515.811,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/worklink"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/appstream",
+            "Type": "String",
+            "Value": "appstream",
+            "Version": 1,
+            "LastModifiedDate": 1555770744.095,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/appstream"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/appsync",
+            "Type": "String",
+            "Value": "appsync",
+            "Version": 1,
+            "LastModifiedDate": 1554911543.447,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/appsync"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/dynamodb",
+            "Type": "String",
+            "Value": "dynamodb",
+            "Version": 1,
+            "LastModifiedDate": 1554911569.937,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/dynamodb"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/elasticbeanstalk",
+            "Type": "String",
+            "Value": "elasticbeanstalk",
+            "Version": 1,
+            "LastModifiedDate": 1554817137.2,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/elasticbeanstalk"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/health",
+            "Type": "String",
+            "Value": "health",
+            "Version": 1,
+            "LastModifiedDate": 1554911522.916,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/health"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iot1click-projects",
+            "Type": "String",
+            "Value": "iot1click-projects",
+            "Version": 1,
+            "LastModifiedDate": 1554911530.05,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iot1click-projects"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/iotanalytics",
+            "Type": "String",
+            "Value": "iotanalytics",
+            "Version": 1,
+            "LastModifiedDate": 1554911530.316,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/iotanalytics"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/qldb-session",
+            "Type": "String",
+            "Value": "qldb-session",
+            "Version": 1,
+            "LastModifiedDate": 1571926066.359,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/qldb-session"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sts",
+            "Type": "String",
+            "Value": "sts",
+            "Version": 1,
+            "LastModifiedDate": 1554816750.984,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sts"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/transcribe",
+            "Type": "String",
+            "Value": "transcribe",
+            "Version": 1,
+            "LastModifiedDate": 1554911509.704,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/transcribe"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/budgets",
+            "Type": "String",
+            "Value": "budgets",
+            "Version": 1,
+            "LastModifiedDate": 1554911548.935,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/budgets"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/datasync",
+            "Type": "String",
+            "Value": "datasync",
+            "Version": 1,
+            "LastModifiedDate": 1555521565.855,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/datasync"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/efs",
+            "Type": "String",
+            "Value": "efs",
+            "Version": 1,
+            "LastModifiedDate": 1554911511.416,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/efs"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/elb",
+            "Type": "String",
+            "Value": "elb",
+            "Version": 1,
+            "LastModifiedDate": 1554817137.92,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/elb"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/es",
+            "Type": "String",
+            "Value": "es",
+            "Version": 1,
+            "LastModifiedDate": 1554911513.964,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/es"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/kinesis",
+            "Type": "String",
+            "Value": "kinesis",
+            "Version": 1,
+            "LastModifiedDate": 1554911531.021,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/kinesis"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/marketplacecommerceanalytics",
+            "Type": "String",
+            "Value": "marketplacecommerceanalytics",
+            "Version": 1,
+            "LastModifiedDate": 1554911539.907,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/marketplacecommerceanalytics"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mediatailor",
+            "Type": "String",
+            "Value": "mediatailor",
+            "Version": 1,
+            "LastModifiedDate": 1555770752.868,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mediatailor"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sns",
+            "Type": "String",
+            "Value": "sns",
+            "Version": 1,
+            "LastModifiedDate": 1554816687.75,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sns"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/swf",
+            "Type": "String",
+            "Value": "swf",
+            "Version": 1,
+            "LastModifiedDate": 1554911509.518,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/swf"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/cloud9",
+            "Type": "String",
+            "Value": "cloud9",
+            "Version": 1,
+            "LastModifiedDate": 1554911550.521,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/cloud9"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/elastictranscoder",
+            "Type": "String",
+            "Value": "elastictranscoder",
+            "Version": 1,
+            "LastModifiedDate": 1554911513.566,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/elastictranscoder"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/glue",
+            "Type": "String",
+            "Value": "glue",
+            "Version": 1,
+            "LastModifiedDate": 1554911519.392,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/glue"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/lex-models",
+            "Type": "String",
+            "Value": "lex-models",
+            "Version": 1,
+            "LastModifiedDate": 1554911534.503,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/lex-models"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/lex-runtime",
+            "Type": "String",
+            "Value": "lex-runtime",
+            "Version": 1,
+            "LastModifiedDate": 1554911534.884,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/lex-runtime"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/mediaconnect",
+            "Type": "String",
+            "Value": "mediaconnect",
+            "Version": 1,
+            "LastModifiedDate": 1554817140.777,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/mediaconnect"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/opsworkscm",
+            "Type": "String",
+            "Value": "opsworkscm",
+            "Version": 1,
+            "LastModifiedDate": 1554911482.074,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/opsworkscm"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/robomaker",
+            "Type": "String",
+            "Value": "robomaker",
+            "Version": 1,
+            "LastModifiedDate": 1554817144.853,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/robomaker"
+        },
+        {
+            "Name": "/aws/service/global-infrastructure/regions/us-east-1/services/sqs",
+            "Type": "String",
+            "Value": "sqs",
+            "Version": 1,
+            "LastModifiedDate": 1554816485.836,
+            "ARN": "arn:aws:ssm:us-east-1::parameter/aws/service/global-infrastructure/regions/us-east-1/services/sqs"
+        }
+    ]
+}
