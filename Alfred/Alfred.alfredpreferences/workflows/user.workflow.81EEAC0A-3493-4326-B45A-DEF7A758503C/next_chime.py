@@ -234,7 +234,7 @@ class CalendarScanner(object):
             try:
                 _output = subprocess.check_output(  # nosec
                     [
-                        "/usr/local/bin/icalBuddy",
+                        "/Users/thulsimo/.homebrew/bin/icalBuddy",
                         "-b",
                         "__start ",  # event "bullet" style
                         "-n",  # omit events earlier than now

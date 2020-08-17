@@ -60,3 +60,4 @@ if [ -f $(brew --prefix)/bin/go ]; then
   export GOPATH=$HOME/Developer
   export PATH="$PATH:$GOPATH/bin"
 fi
+export PATH=$HOME/.toolbox/bin:$PATH

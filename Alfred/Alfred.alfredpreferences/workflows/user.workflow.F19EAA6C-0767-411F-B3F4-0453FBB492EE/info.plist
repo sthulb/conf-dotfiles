@@ -4,8 +4,6 @@
 <dict>
 	<key>bundleid</key>
 	<string>net.jojonki.sso</string>
-	<key>category</key>
-	<string>Tools</string>
 	<key>connections</key>
 	<dict>
 		<key>0B3460B3-04F3-4887-BBBA-ABFCD811E9E0</key>
@@ -52,8 +50,6 @@
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
-				<key>argumenttreatemptyqueryasnil</key>
-				<false/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
@@ -97,7 +93,7 @@ delay 0.1set js to "{\"items\": ["tell application "System Events"	tell appli
 			<key>uid</key>
 			<string>5D8F18C1-C0F3-41F0-B420-25ECF06A9069</string>
 			<key>version</key>
-			<integer>3</integer>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -172,10 +168,6 @@ return sp_name</string>
 			<integer>300</integer>
 		</dict>
 	</dict>
-	<key>variablesdontexport</key>
-	<array/>
-	<key>version</key>
-	<string>1.0</string>
 	<key>webaddress</key>
 	<string>http://www.twitter.com/jojonki</string>
 </dict>
