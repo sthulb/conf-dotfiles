@@ -3,7 +3,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 
 # cask opts
-cask_args appdir: "~/Applications", require_sha: true
+cask_args appdir: "~/Applications"
 
 # fonts
 cask "font-fira-code"
