@@ -9,8 +9,8 @@ cask_args appdir: "~/Applications", require_sha: true
 cask "font-fira-code"
 
 # apps
-cask "google-chrome", appdir: "/Applications"
-cask "1password", appdir: "/Applications"
+cask "google-chrome", args: { appdir: "/Applications" }
+cask "1password", args: { appdir: "/Applications" }
 cask "1password-cli"
 
 cask "visual-studio-code"
